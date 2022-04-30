@@ -42,5 +42,6 @@ console.log(slice);
 let subString = email.substring(3,7);
 console.log(subString);
 
-let rep = email.replace('m','w');
+let rep = email.replace('m','w'); //replay first m
 console.log(rep);
+
