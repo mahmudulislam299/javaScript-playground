@@ -27,3 +27,9 @@ console.log(5/'HEllo');
 
 let msg = 'the blog has ' + likes + ' likes';
 console.log(msg);
+
+
+let scores = '100';
+scores = Number(scores);
+
+console.log(`the number is ${scores+1}`);
